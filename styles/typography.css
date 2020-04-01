@@ -1,0 +1,91 @@
+body {
+background: #FFFFCC;
+font-family: "Times New Roman", Times, serif;
+padding: 18px;
+}
+
+header {
+text-align: center;
+font-family: "Times New Roman", Times, serif;
+font-size: large;
+font-weight: bold;
+text-transform: uppercase;
+color: #993333 ;
+}
+
+nav ul li {
+list-style:inline;
+display: inline;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+margin-top: 100px;
+margin-bottom: 40px;
+margin-left: 100px;
+}
+
+ul li {
+margin-left: 10px;
+margin-right: 10px;
+font-family: "Lucida Handwriting", serif;
+}
+
+h1 {
+font-size: 40px;
+}
+
+h2 {
+font-size: 15px;
+}
+
+h3 {
+font-size: 15px;
+}
+h4 {
+font-size: 15px;
+}
+h5 {
+font-size: 15px;
+}
+h6 {
+font-size: 15px;
+}
+h7 {
+font-size: 15px;
+}
+
+section {
+text-align: center;
+font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+font-weight: bold;
+}
+
+body {
+font-family:"Times New Roman", Times, monospace;
+background-color: #FFFFCC; 
+color:#70A581;
+}
+#image {
+background-image: url('../images/Exotique.jpg');
+padding: 20px; 
+background-position: top;
+height: 70px;
+background-size: 70%;
+background-repeat:no-repeat;
+padding-right: 10em;
+padding-bottom: 10em;
+border: solid; 
+}
+
+
+
+
+footer {
+margin-top: 100px;
+margin-left: 90px;
+font-size: 1.3em;
+font-weight: bold;
+text-align: center;
+line-height: 1.1em;
+}

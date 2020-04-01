@@ -1,0 +1,48 @@
+body {
+position: relative;
+margin-right: 80px;
+margin-left: 80px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+header {
+margin-right: 30px;
+margin-left: 30px;
+}
+
+p {
+margin-right: 30px;
+margin-left: 30px;
+}
+
+#clientNavigation {
+position: absolute;
+right: 36px;
+top: 20px;
+padding: 0.6em;
+display: inline;
+}
+
+#clientNavigation p {
+padding: 0;
+margin-left: 0.6em;
+}
+
+#clientNavigation ul {
+padding: 0;
+margin: 0;
+}
+
+#mainNavigation {
+display: inline;
+width: 6em;
+}
+
+footer {
+clear: both;
+background-color: #63746E;
+color: #1896FF;
+position: relative;
+}
+

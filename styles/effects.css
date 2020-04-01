@@ -1,0 +1,25 @@
+nav img {
+	border: none;
+	}
+p img {
+position: relative;
+border: solid;
+}
+
+#mainNavigation li {
+	padding: 0px;
+	margin: 0px;
+	width: 136px;
+	height: 65px;
+	display: inline;
+	position: relative;
+	}
+
+#mainNavigation li:hover {
+	position: relative;
+	}
+
+#mainNavigation .current {
+	position: relative;
+	left: 25px;
+	}
